@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Autodesk Fusion 360, Blender, Html, CSS, Java Script**
 
-- 💬 Ask me about **Iam an engineering Student, studying Mechanical engineering in St. Joseph's College of Engineering**
+- 💬 **Iam an engineering Student, studying Mechanical engineering in St. Joseph's College of Engineering**
 
 - 📫 How to reach me **kathirvelraja0329@gmail.com**
 
